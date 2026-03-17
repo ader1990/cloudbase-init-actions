@@ -9,7 +9,7 @@ on: [push, pull_request]
 
 jobs:
   linux-unit-tests:
-    runs-on: garm
+    runs-on: lxd_scale_set
     strategy:
       fail-fast: false
 
