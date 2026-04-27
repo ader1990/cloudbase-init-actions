@@ -1,4 +1,4 @@
-name: Cloudbase-Init tests
+name: Cloudbase-Init tests rerun
 
 on: [push, pull_request]
 
